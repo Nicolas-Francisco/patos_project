@@ -1,9 +1,15 @@
 # Accidentes de tránsito en Estados Unidos, 
 ### Proyecto del curso de Procesamiento Masivo de Datos
 Integrantes: 
-- Javier Lavados Jillbert, 
-- Jorge Barraza, 
+- Javier Lavados Jillbert
+- Jorge Barraza
 - Nicolás García Ríos
+
+Video Presentación: https://www.youtube.com/watch?v=S3pSnanBFLw&ab_channel=JavierLavadosJilbert
+
+## Datos
+El dataset fué obtenido desde el siguiente link: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+En el se encuentra un archivo .csv de unos 3 GB de memoria. Para el preprocesamiento se ejecutó el script `Proyecto.ipynb`, el cuál elimina las columnas innecesarias para el estudio y se queda con las más importantes. Más detalles dentro del script y en el video de presentación del proyecto.
 
 ## How to run
 El proyecto parte con el mismo set-up del Laboratorio 5 (Spark).
